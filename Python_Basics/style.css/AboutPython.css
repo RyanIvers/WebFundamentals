@@ -1,0 +1,149 @@
+.container {
+    width:970px;
+    margin: auto;
+}
+
+header {
+    background-color: #245176;
+    width: 970px;
+    height: auto;
+}
+
+section {
+
+    background: white;
+    width: 970px;
+    height: auto;
+
+}
+
+footer {
+    background: #2d6494;
+    width: 970px;
+    height: 120px;
+}
+
+
+
+.li {
+    display: inline-block;
+    padding: 20px 20px 20px 40px;
+    color: white;
+    font-size: 20px;
+}
+
+#nav {
+    background: #3d7aad;
+    width: auto;
+    height: auto;
+    margin: 25px;
+    border-radius: 5px;
+    font-size: 10pt;
+    padding: 0px;
+    border-bottom: 3px solid #1f2930;
+    border-right: 3px solid #1f2930;
+}
+
+#search {
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    text-align: right;
+    padding: 10px 0 0 250px;
+    font-size: 10pt;
+}
+
+#searchbar {
+    background-color:  #444444;
+}
+
+.go {
+    background-color: #245076;
+    margin-right: 5px;
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+
+}
+
+.list:before {
+        content: "\00BB \0020";
+        color: yellow;
+}
+
+.list {
+    color: white;
+    list-style-type: none;
+    text-align: center;
+    font-size: 18pt;
+}
+
+
+#quote {
+    text-align: center;
+    color: yellow;
+    font-size: 12pt;
+    width: 500px;
+    font-style: arial;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#info ul {
+    display: inline-block;
+    margin: 30px;
+}
+#tags{
+    display: inline-block;
+}
+
+#info {
+    display: inline-block;
+}
+
+.started {
+    display: inline-block;
+    width: 300px;
+    height: auto;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-bottom: 0px;
+    text-align: center;
+    border-top: 3px solid #73a8d5;
+    vertical-align: top;
+    padding-bottom: 0px;
+    
+}
+
+h4 {
+    text-align: center;
+}
+
+.go {
+    background-color: #245076;
+    border-radius: 5%;
+}
+
+#foot li {
+    display: inline-block;
+    padding: 40px 50px 20px 80px;
+    text-align: center;
+}
+
+#foot li a {
+     color: #86add4;
+}
+
+h6 {
+    font-size: 7pt;
+    color: #86add4;
+    text-align: center;
+}
+
+.bli {
+    color: black;
+    list-style-type: square;
+}
